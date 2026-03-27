@@ -1,0 +1,2 @@
+"""HA Vibecode Agent Application"""
+
