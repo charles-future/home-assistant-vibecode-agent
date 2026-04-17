@@ -55,4 +55,3 @@ def get_logs(limit: int = 100, level: str = None):
         logs = [log for log in logs if log['level'] == level.upper()]
     
     return logs
-
