@@ -60,4 +60,3 @@ async def verify_token(credentials: HTTPAuthorizationCredentials = Security(secu
         logger.info(f"✅ Token validated in development mode")
         return token
 
-
