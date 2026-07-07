@@ -555,4 +555,3 @@ async def delete_helper(entity_id: str, commit_message: Optional[str] = Query(No
     except Exception as e:
         logger.error(f"Failed to delete helper: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-

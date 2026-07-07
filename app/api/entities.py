@@ -347,4 +347,3 @@ async def rename_entity(
     except Exception as e:
         logger.error(f"Failed to rename entity {old_entity_id}: {e}")
         raise HTTPException(status_code=500, detail=f"Failed to rename entity: {str(e)}")
-
