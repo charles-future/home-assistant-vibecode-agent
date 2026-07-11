@@ -594,4 +594,3 @@ The add-on automatically uses the **Supervisor Token** for Home Assistant API op
 ---
 
 For more information, see [README.md](README.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
-
