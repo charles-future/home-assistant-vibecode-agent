@@ -373,4 +373,3 @@ async def restore_files(
     except Exception as e:
         logger.error(f"Failed to restore files: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-
