@@ -1141,4 +1141,3 @@ HA_AGENT_KEY=<your-token>
 **Last Updated:** 2026-01-27  
 **Test Suite Version:** 1.2.0  
 **Compatible with:** HA Vibecode Agent v2.10.40+
-
