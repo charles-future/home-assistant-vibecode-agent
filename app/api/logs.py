@@ -63,4 +63,3 @@ async def clear_logs():
             "success": False,
             "message": str(e)
         }
-
